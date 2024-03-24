@@ -1,31 +1,54 @@
-title: SITCON
+title: 2023 AIS3 CLUB 社群經營分享
 output: index.html
 
 --
 
 <h1 style="font-size: 72px">
-  SITCON<br />
-  學生計算機年會
+  社群經營
 </h1>
 <br />
 
-## SITCON 共同發起人
 ## Denny Huang
+## 2023/08/26 AIS3 CLUB
 
 --
 
-### Who am I ?
+### Denny Huang
 
-<br />
-<h2 style="font-size: 60px">
-  <b>Denny Huang</b>
-</h2>
-
-* SITCON 2013, 2014 總召
-
-* Rayark Inc.
-
+* SITCON 學生計算機年會 共同發起人
+- HITCON CMT 2023 總召
+- COSCUP 2023 總召組
+- OPass 專案協調人
+* Data Analysis Manager, Rayark Inc.
 * <a href="https://denny.one/" target="_blank">About me</a>
+
+--
+
+### Rayark Inc.
+
+- Data Analysis Manager
+
+- 15 款遊戲
+
+- 7 款為每週更新
+
+- 5 間公司
+
+--
+
+### HITCON CMT 2023
+
+<div align="center">
+  <img style="width: 800px" src="img/hitcon-cmt-2023.jpg" />
+</div>
+
+--
+
+<div align="center">
+  <img style="height:400px" src="./img/sitcon-logo.svg" />
+  <h2>Students’ Information Technology Conference</h2>
+  <a href="http://sitcon.org/">https://sitcon.org</a>
+</div>
 
 --
 
@@ -48,14 +71,6 @@ output: index.html
 ### 2012 / 08 / 26
 <div align="center">
   <img style="height: 450px" src="img/first-meeting.png" />
-</div>
-
---
-
-<div align="center">
-  <img style="height:400px" src="./img/sitcon-logo.svg" />
-  <h2>Students’ Information Technology Conference</h2>
-  <a href="http://sitcon.org/">https://sitcon.org</a>
 </div>
 
 --
@@ -311,12 +326,6 @@ output: index.html
 
 --
 
-<h1 style="font-size: 72px">
-  SITCON 籌備 / 開源專案
-</h1>
-
---
-
 # 傳統?
 
 --
@@ -325,8 +334,50 @@ output: index.html
 
 --
 
+# 法人化？
+
+--
+
+# 目標族群
+
+--
+
+# （定期）聚會活動內容
+
+--
+
+# 組織經營與管理
+
+--
+
 # 紀錄
+## [文件存放說明](https://hackmd.io/@SITCON/doc)
 ## [Mailing List](https://groups.google.com/g/sitcon-general) / [Google Drive](https://drive.google.com/drive/folders/0AIx9UW7aBiDgUk9PVA) / [HackMD](https://hackmd.io/@SITCON)
+
+--
+
+# 專案管理
+## [SITCON Camp 2023 GitLab Issue Board](https://gitlab.com/sitcon-tw/camp-2023/sitcon-camp-2023-board/-/boards/5401961)
+
+--
+
+# 會議
+
+--
+
+# 尋找資源
+## [SITCON 2022 贊助徵求書](https://i.sitcon.org/2022cfs)
+
+--
+
+### 電子郵件
+<iframe width="800" height="500" src="https://www.youtube.com/embed/5kXkcR6TKhc?si=Xpas1BcZkwoNr1FT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+--
+
+<h1 style="font-size: 64px">
+  休息，是為了走更長遠的路
+</h1>
 
 --
 
